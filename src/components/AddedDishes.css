@@ -1,0 +1,8 @@
+.addedDishes{
+   width: 100vw;
+   height: 27rem;
+   display: flex;
+   justify-content: space-evenly;
+   background-color: aliceblue;
+   /* flex-wrap: wrap; */
+}

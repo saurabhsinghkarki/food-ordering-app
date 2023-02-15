@@ -1,0 +1,12 @@
+
+.totalBillDiv{
+width: 100vw;
+height: 5rem;
+text-align: center;
+}
+
+.totalBill{
+color: white;
+font-weight: bold;
+font-size: 1.5rem;
+}
